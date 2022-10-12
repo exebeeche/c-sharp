@@ -1,0 +1,15 @@
+/Users/exebeeche/sources/c-sharp2/bin/Debug/net6.0/c-sharp2
+/Users/exebeeche/sources/c-sharp2/bin/Debug/net6.0/c-sharp2.deps.json
+/Users/exebeeche/sources/c-sharp2/bin/Debug/net6.0/c-sharp2.runtimeconfig.json
+/Users/exebeeche/sources/c-sharp2/bin/Debug/net6.0/c-sharp2.dll
+/Users/exebeeche/sources/c-sharp2/bin/Debug/net6.0/c-sharp2.pdb
+/Users/exebeeche/sources/c-sharp2/obj/Debug/net6.0/c-sharp2.csproj.AssemblyReference.cache
+/Users/exebeeche/sources/c-sharp2/obj/Debug/net6.0/c-sharp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/exebeeche/sources/c-sharp2/obj/Debug/net6.0/c-sharp2.AssemblyInfoInputs.cache
+/Users/exebeeche/sources/c-sharp2/obj/Debug/net6.0/c-sharp2.AssemblyInfo.cs
+/Users/exebeeche/sources/c-sharp2/obj/Debug/net6.0/c-sharp2.csproj.CoreCompileInputs.cache
+/Users/exebeeche/sources/c-sharp2/obj/Debug/net6.0/c-sharp2.dll
+/Users/exebeeche/sources/c-sharp2/obj/Debug/net6.0/refint/c-sharp2.dll
+/Users/exebeeche/sources/c-sharp2/obj/Debug/net6.0/c-sharp2.pdb
+/Users/exebeeche/sources/c-sharp2/obj/Debug/net6.0/c-sharp2.genruntimeconfig.cache
+/Users/exebeeche/sources/c-sharp2/obj/Debug/net6.0/ref/c-sharp2.dll

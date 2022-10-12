@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{3010545A-CCF6-4BD2-BCD6-05CF7F7569F8}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.c-sharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.c-sharp3 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../c-sharp3/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="167" Column="33" />
+      <File FileName="../c-sharp2/Program.cs" Line="29" Column="2" />
+      <File FileName="../c-sharp3/Program.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="c-sharp" expanded="True">
+            <Node name="c-sharp" expanded="True" />
+            <Node name="c-sharp2" expanded="True" />
+            <Node name="c-sharp3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.c-sharp2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
