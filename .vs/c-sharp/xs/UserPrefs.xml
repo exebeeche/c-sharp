@@ -1,5 +1,6 @@
 ﻿<Properties StartupConfiguration="{3010545A-CCF6-4BD2-BCD6-05CF7F7569F8}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.c-sharp4 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.c-sharp PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.c-sharp3 FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

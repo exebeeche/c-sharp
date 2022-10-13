@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/exebeeche/sources/c-sharp/c-sharp2/c-sharp2.csproj",
-      "projectName": "c-sharp2",
-      "projectPath": "/Users/exebeeche/sources/c-sharp/c-sharp2/c-sharp2.csproj",
+      "projectUniqueName": "/Users/exebeeche/sources/c-sharp/c-sharp4/c-sharp4.csproj",
+      "projectName": "c-sharp4",
+      "projectPath": "/Users/exebeeche/sources/c-sharp/c-sharp4/c-sharp4.csproj",
       "packagesPath": "/Users/exebeeche/.nuget/packages/",
-      "outputPath": "/Users/exebeeche/sources/c-sharp/c-sharp2/obj/",
+      "outputPath": "/Users/exebeeche/sources/c-sharp/c-sharp4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/exebeeche/.nuget/NuGet/NuGet.Config"
