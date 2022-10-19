@@ -49,6 +49,7 @@ namespace c_sharp4
             Console.WriteLine($"Odd numbers: {oddNumberCounter}");
             Console.WriteLine($"Even numbers sum: {evenNumberSum}");
             Console.WriteLine($"Odd numbers sum: {oddNumberSum}");
+			Console.WriteLine($"Odd numbers sum: {oddNumberSum} and Even numbers sum: {evenNumberSum}");
 
         }
     }
