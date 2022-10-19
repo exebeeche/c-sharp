@@ -25,7 +25,7 @@ namespace c_sharp3
 
             double resultMult = (firstNumber * secondNumber * thirdNumber);
 
-            Console.WriteLine($"The sum is {resultSum}, the multiplicatiin is {resultMult}");
+            Console.WriteLine($"The sum is {resultSum}, the multiplication result is {resultMult}");
 
         }
     }
