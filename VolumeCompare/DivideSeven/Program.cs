@@ -1,7 +1,11 @@
 ﻿using System;
 
 namespace DivideSeven {
+
+
     internal class Program {
+
+
         static void Main(string[] args) {
             // Input the number
 
